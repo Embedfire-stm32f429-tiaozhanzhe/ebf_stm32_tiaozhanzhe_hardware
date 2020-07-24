@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : F429PCB_V2_0.brd                              )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Jul 10 10:30:57 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'F:/SCH-PCB/0190710/LIB/25wp_4_wson8_8x6_ic_w25q256jv.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/stm32f429igt6_lqfp176_stm32f429.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/usb_mini_ab_receptacle_3_micro_.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0402_discrete_01uf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0402_discrete_22uf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0402_discrete_22pf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0402_discrete_10pf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0603_discrete_22uf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0402_discrete_47uf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0603_discrete_10uf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/cap_np_c0402_discrete_22nf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/b2bf_2x40_0_b2bf-2x40-0p8_b2bf_.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/led_0_led0603_ic_red.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/bat54c_sot23_bat54c.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/spacer_0_t3_ic_30mm.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/module_lcd_3_fpc-40p-0p5_io_con.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/sip5_2_0_sip5-2p54_sip5_2_54a.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/sip3_2_0_sip3-2p54_sip3_2_54.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/inductor_l0402_gz1005d121tf.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/inductor_ferrite_l0402_discrete.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/bead_l0603_discrete_330100mhz_.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_5_r0402_discrete_1k.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_5_r0402_discrete_22k_5.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_r0402_discrete_1k.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_r0402_discrete_47k.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_5_r0402_discrete_10k_5.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_r0402_discrete_10k_5.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_4_r0402_discrete_47k.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_r0402_discrete_100.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_5_r0402_discrete_68k.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_r0402_discrete_0.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_5_r0402_discrete_nc.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/res_5_r0402_discrete_10k.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/sw_pb_esw_1_sw3x6-smd_ic_spstp.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/mt48lc16m16a2b4_bga54_4_tsop48_.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/um1750s-00_0_sot23-5_ic_rt9193-.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/sy6280aac_sot23-5_mt9700.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/mt48lc16m16a2b4_bga54_0_tsop54_.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/25wp_4_sot23-5_ic_at24c02c-stum.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/crystal_jxs63_3225_ic_25mhz.txt': written successfully.
+Device file 'F:/SCH-PCB/0190710/LIB/crystal_3215_ic_32768khz.txt': written successfully.
+
+  Created device files: 41
+
